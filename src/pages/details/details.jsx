@@ -5,7 +5,7 @@ import "./style.scss";
 import useFetch from "../../hooks/useFetch";
 import DetailsBanner from "./detailsBanner/DetailsBanner";
 import Cast from "./cast/Cast";
-import VideosSection from "./videosSection/VideosSection";
+import VideosSection from "./videosSection/videosSection";
 import Similar from "./carousels/Similar";
 import Recommendation from "./carousels/Recommendation";
 

@@ -10,8 +10,8 @@ import Details from "./pages/details/details.jsx";
 import Explore from "./pages/explore/explore.jsx";
 import PageNotFound from "./pages/404/pageNotFound.jsx";
 import SearchResult from "./pages/searchResult/searchResult.jsx";
-import Header from "./components/header/header.jsx";
-import Footer from "./components/footer/footer.jsx";
+import Header from "./components/header/Header.jsx";
+import Footer from "./components/footer/Footer.jsx";
 
 function App() {
   const dispatch = useDispatch();
